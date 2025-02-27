@@ -43,56 +43,8 @@
 </table>
 
 
-## 🚀 Languages & Tools
-
-### 📌 Programming Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-</p>
-
-### 🎨 Frontend Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-</p>
-
-### 🔗 Backend & Databases  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-</p>
-
-### 🔧 Tools & DevOps  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-</p>
-
-### 🎨 Design & UI/UX  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50" style="background:white; padding:5px; border-radius:10px;"/>
-</p>
-  
-
-</br></br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshanmanchanayaka&show_icons=true&locale=en&layout=compact" alt="heshanmanchanayaka" /></p>
-</br>
-
-
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
